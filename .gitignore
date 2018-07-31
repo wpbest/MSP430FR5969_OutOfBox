@@ -12,6 +12,32 @@
 *.map
 *.exp
 
+# Visual Studio User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Code Composer Studio / Visual Studio Build results
+[Dd]ebug/
+
+# Visual Studio Build results
+[Rr]elease/
+x64/
+[Ww]in32/
+[Ii]ntermediate/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# IAR Compiler
+*.dep
+[Ss]ettings/
+
+# System Files
+.DS_Store
+Thumbs.db
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -44,7 +70,6 @@
 
 # Kernel Module Compile Results
 *.mod*
-*.cmd
 .tmp_versions/
 modules.order
 Module.symvers

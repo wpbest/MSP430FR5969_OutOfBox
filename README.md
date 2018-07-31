@@ -1,0 +1,2 @@
+# MSP430FR5969_OutOfBox
+Out of Box Demo for the MSP-EXP430FR5969
